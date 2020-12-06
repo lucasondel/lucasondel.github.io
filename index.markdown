@@ -4,21 +4,10 @@
 
 layout: home
 ---
-Hello, this site is under construction
 
-# This is a title
+Hello, World
+This is a title: {{ site.title }}
 
-## This a subtitle
+# This is a header
 
-a paragraph which tells nothing but is long enough to pretend to be a
-real text. This is a kind of modern *lore ipsum* but more modern and
-definitely smaller. I wonder what the guy who wrote *lore ipsum* would
-think if he knew that his text is just used everywhere and yet nobody
-reads more than 2 words...
-
-Here goes some equation
-$$
-  a x\^2 + bx +c = 0
-$$
-
-
+## this is a another header
