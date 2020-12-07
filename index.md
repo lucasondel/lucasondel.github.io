@@ -1,3 +1,7 @@
+---
+layout: home
+title: "This is my home"
+---
 This website is in construction. Please be patient, it's coming soon!
 
 
