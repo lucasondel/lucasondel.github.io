@@ -4,3 +4,5 @@ description: Studying and buiding machine learning algorithms to benefit everyon
 
 logo: ./logo.png
 
+
+theme: jekyll-theme-minimal
