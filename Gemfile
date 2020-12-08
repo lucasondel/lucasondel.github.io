@@ -13,6 +13,7 @@ source "https://rubygems.org"
 # This is the default theme for new Jekyll sites. You may change this
 # to anything you like.
 gem "jekyll-theme-minimal"
+gem "jekyll-theme-hydeout", "~> 4.1.0"
 
 #gem "kramdown-parser-gfm"
 
