@@ -94,9 +94,6 @@ permalink: /publications
   In Proc. of the NIST SRE 2016 workshop.
 * Ondel, L., Anguera, X., & Luque, J. (2015, April). [MASK+: Data-driven regions selection for acoustic fingerprinting](http://www.fit.vutbr.cz/research/groups/speech/publi/2015/ondel_icassp2015_0000335.pdf). In 2015 IEEE International Conference on Acoustics, Speech and
   Signal Processing (ICASSP) (pp. 335-339). IEEE.
-* Szöke, I., Bürget, L., Grézl, F., Černocký, J. H., & Ondel, L. (2014,
-  May). Calibration and fusion of query-by-example systems—BUT SWS
-  2013. In 2014 IEEE International Conference on Acoustics, Speech and
-  Signal Processing (ICASSP) (pp. 7849-7853). IEEE.
+* Szöke, I., Bürget, L., Grézl, F., Černocký, J. H., & Ondel, L. (2014, May). Calibration and fusion of query-by-example systems—BUT SWS 2013. In 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 7849-7853). IEEE.
 * Szöke, I., Burget, L., Grézl, F., & Ondel, L. (2013, October).
   [BUT SWS 2013-Massive Parallel Approach. In MediaEval](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7961&rep=rep1&type=pdf).
