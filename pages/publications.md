@@ -1,7 +1,7 @@
 ---
 permalink: /publications
 ---
-### [Home](/index) | Publications | [Talks](/talks) | [Resume](/resume)
+### [Home](/index) | Publications | [Talks](/talks) | [Softwares](/softwares) | [Resume](/resume)
 
 
 ## Selected publications
