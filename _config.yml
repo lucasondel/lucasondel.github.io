@@ -4,3 +4,4 @@ benefit everyone"
 show_downloads: false
 logo: ./logo.jpg
 theme: jekyll-theme-minimal
+markdown: kramdown
