@@ -7,5 +7,5 @@ permalink: /softwares
   [github](https://github.com/beer-asr/beer)
 * ExpFamilyDistributions - using exponential family distributions in
   Bayesian inference
-  [github](https://github.com/lucasondel/ExpFamilyDistributions)
-  [documentation](https://lucasondel.github.io/ExpFamilyDistributions/stable/)
+  [github](https://github.com/lucasondel/ExpFamilyDistributions.jl)
+  [documentation](https://lucasondel.github.io/ExpFamilyDistributions.jl/stable/)

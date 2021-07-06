@@ -16,8 +16,13 @@ permalink: /publications
   Proc. Interspeech 2019, 261-265.
 * Ondel, L., Burget, L., & Černocký, J. (2016). [Variational inference for acoustic unit discovery](http://www.fit.vutbr.cz/research/groups/speech/publi/2016/ondel_sltu2016_17-8037.pdf). Procedia Computer Science, 81, 80-86.
 
+## Ph. D. Thesis
+
+* Ondel., L. (20221) [Discovering Acoustic Units from Speech: a Bayesian Approach](https://www.fit.vut.cz/study/phd-thesis/751/) [pdf](https://www.fit.vut.cz/study/phd-thesis/751/751.pdf)
+
 ## All Publications
 
+* Zanon Boito, M., Yusuf, B., Ondel, L. Villavicencio, A., Besacier, L. (2021) [Unsupervised Word Segmentation from Discrete Speech Units in Low-Resource Settings](https://arxiv.org/pdf/2106.04298.pdf)
 * Yusuf, B., Ondel, L., Burget, L., Cernocky, J., & Saraclar, M.
   (2020). [A Hierarchical Subspace Model for Language-Attuned Acoustic
   Unit Discovery](https://arxiv.org/pdf/2011.03115.pdf).
