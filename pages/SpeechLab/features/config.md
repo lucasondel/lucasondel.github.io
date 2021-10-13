@@ -1,10 +1,8 @@
-Here is an example of configuration file for the MFCC features.
-
-```toml
 # SPDX-License-Identifier: MIT
 #
 # Lucas Ondel, LISN 2021
 #
+# This is an example of configuration file for the MFCC features.
 
 # Where you have prepare you datasets.
 [dataset]
@@ -34,5 +32,3 @@ deltaorder = 2
 #nceps = 40
 #liftering = 0 # No liftering.
 #deltaorder = 0 # No delta coefficients.
-```
-
