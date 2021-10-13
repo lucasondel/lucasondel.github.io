@@ -1,3 +1,7 @@
+---
+permalink: /SpeechLab/features/config.toml
+---
+
 # SPDX-License-Identifier: MIT
 #
 # Lucas Ondel, LISN 2021
