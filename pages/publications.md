@@ -18,7 +18,7 @@ permalink: /publications
 
 ## Ph. D. Thesis
 
-* Ondel., L. (20221) [Discovering Acoustic Units from Speech: a Bayesian Approach](https://www.fit.vut.cz/study/phd-thesis/751/) [pdf](https://www.fit.vut.cz/study/phd-thesis/751/751.pdf)
+* Ondel., L. (2021) [Discovering Acoustic Units from Speech: a Bayesian Approach](https://www.fit.vut.cz/study/phd-thesis/751/) [pdf](https://www.fit.vut.cz/study/phd-thesis/751/751.pdf)
 
 ## All Publications
 
