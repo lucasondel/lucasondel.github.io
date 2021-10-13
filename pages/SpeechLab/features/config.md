@@ -12,7 +12,7 @@ name = "<dataset>"
 # Features specific configuration.
 [features]
 
-# Make sure the output directory is on disk with large memory.
+# Make sure the output directory is on a disk with large memory.
 dir = "</path/to/features/>"
 
 # Standard MFCC features.
@@ -24,7 +24,7 @@ nceps = 13
 liftering = 22
 deltaorder = 2
 
-# High-resolution MFCC features (for end-to-end models for instance).
+# High-resolution MFCC features (e.g. for end-to-end models).
 #name = "mfcc_hires"
 #lowfreq = 20
 #highfreq = 7600
