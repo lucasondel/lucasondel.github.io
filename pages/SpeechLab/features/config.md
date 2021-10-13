@@ -1,5 +1,5 @@
 ---
-permalink: /SpeechLab/features/config.toml
+permalink: /SpeechLab/features/config
 ---
 
 # SPDX-License-Identifier: MIT
