@@ -12,9 +12,12 @@ title: MFCC configuration
 # This is an example of configuration file for the MFCC features.
 
 # Where you have prepare you datasets.
+# We assume the following to find the files:
+#   dataset.dir/dataset.name/{dataset.subsets...}
 [dataset]
 dir = "</path/to/datasets/>"
 name = "<dataset>"
+subsets = ["<train>", "<dev>", "<test>"]
 
 # Features specific configuration.
 [features]
