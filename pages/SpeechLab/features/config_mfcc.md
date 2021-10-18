@@ -13,7 +13,7 @@ title: MFCC configuration
 
 # Where you have prepare you datasets.
 # We assume the following to find the files:
-#   dataset.dir/dataset.name/{dataset.subsets...}
+#   dataset.dir/dataset.name/{dataset.subsets...}/wav.scp
 [dataset]
 dir = "</path/to/datasets/>"
 name = "<dataset>"
