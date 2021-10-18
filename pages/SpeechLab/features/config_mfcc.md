@@ -36,6 +36,10 @@ numfilters = 26
 nceps = 13
 liftering = 22
 deltaorder = 2
+mean_norm = true
+
+# If 'var_norm' is true, then 'mean_norm' is forced to true automatically
+var_norm = false
 
 # High-resolution MFCC features (e.g. for end-to-end models).
 #name = "mfcc_hires"
