@@ -1,7 +1,8 @@
 ---
-permalink: /SpeechLab/features/config
+permalink: /SpeechLab/features/config_mfcc
 ---
 
+```
 # SPDX-License-Identifier: MIT
 #
 # Lucas Ondel, LISN 2021
@@ -18,6 +19,9 @@ name = "<dataset>"
 
 # Make sure the output directory is on a disk with large memory.
 dir = "</path/to/features/>"
+
+# In the following, we assume 16kHz input signal. For different
+# sampling rate, remember to adjust the "highfreq" option accordingly.
 
 # Standard MFCC features.
 name = "mfcc"
@@ -36,3 +40,4 @@ deltaorder = 2
 #nceps = 40
 #liftering = 0 # No liftering.
 #deltaorder = 0 # No delta coefficients.
+```
