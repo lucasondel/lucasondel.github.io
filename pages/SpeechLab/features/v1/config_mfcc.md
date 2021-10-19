@@ -12,9 +12,10 @@ title: MFCC configuration
 # This is an example of configuration file for the MFCC features.
 
 # Where you have prepare you datasets.
-# We assume the following to find the files:
-#   dataset.dir/dataset.name/{dataset.subsets...}/wav.scp
 [dataset]
+
+# We assume the following to find the files:
+#   dataset.dir/dataset.name/{dataset.subsets...}/{wav.scp,utt2spk}
 dir = "</path/to/datasets/>"
 name = "<dataset>"
 subsets = ["<train>", "<dev>", "<test>"]
@@ -37,9 +38,10 @@ nceps = 13
 liftering = 22
 deltaorder = 2
 mean_norm = true
-
-# If 'var_norm' is true, then 'mean_norm' is forced to true automatically
 var_norm = false
+
+# NOTE: if 'var_norm' is true, then 'mean_norm' is forced to true
+# automatically.
 
 # High-resolution MFCC features (e.g. for end-to-end models).
 #name = "mfcc_hires"
@@ -49,4 +51,6 @@ var_norm = false
 #nceps = 40
 #liftering = 0 # No liftering.
 #deltaorder = 0 # No delta coefficients.
+#mean_norm = true
+#var_norm = true
 ```
