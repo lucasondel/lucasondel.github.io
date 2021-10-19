@@ -1,4 +1,4 @@
-### Home | [Publications](/publications) | [Talks](/talks) | [Softwares](/softwares) | [Resume](/resume)
+### Home | [Publications](/publications) | [Talks](/talks) | [Softwares](/softwares) | [Recipes](/recipes)
 
 This is my personal website where you can check out my work. Feel free
 to [contact me](mailto:lucas.ondel@gmail.com) if you are

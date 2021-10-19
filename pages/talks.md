@@ -1,7 +1,7 @@
 ---
 permalink: /talks
 ---
-### [Home](/index) | [Publications](/publications) | Talks | [Softwares](/softwares) | [Resume](/resume)
+### [Home](/index) | [Publications](/publications) | Talks | [Softwares](/softwares) | [Recipes](/recipes)
 
 ## Subspace Models for Acoustic Units Discovery
 

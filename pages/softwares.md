@@ -1,7 +1,7 @@
 ---
 permalink: /softwares
 ---
-### [Home](/index) | [Publications](/publications) | [Talks](/talks) | Softwares | [Resume](/resume)
+### [Home](/index) | [Publications](/publications) | [Talks](/talks) | Softwares | [Recipes](/recipes)
 
 * BEER - the Bayesian spEEch Recognizer
   [github](https://github.com/beer-asr/beer)
