@@ -1,6 +1,7 @@
 ---
 permalink: /resources/SpeechLab/features/v1/config_mfcc
 layout: config
+---
 ```
 # SPDX-License-Identifier: MIT
 #
