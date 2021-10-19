@@ -5,7 +5,7 @@ permalink: /softwares
 
 * BEER - the Bayesian spEEch Recognizer
   [github](https://github.com/beer-asr/beer)
-* ExpFamilyDistributions - using exponential family distributions in
-  Bayesian inference
-  [github](https://github.com/lucasondel/ExpFamilyDistributions.jl)
-  [documentation](https://lucasondel.github.io/ExpFamilyDistributions.jl/stable/)
+* [ExpFamilyDistributions](https://github.com/lucasondel/ExpFamilyDistributions.jl)
+ - using exponential family distributions in Bayesian inference
+* [MarkovModels.jl](https://github.com/lucasondel/MarkovModels.jl) -
+  inference with Markov chains

@@ -3,14 +3,14 @@ permalink: /recipes
 ---
 ### [Home](/index) | [Publications](/publications) | [Talks](/talks) | [Softwares](/softwares) | Recipes
 
-You can find here the recipes in my research. The recipes are
-[Pluto](https://github.com/fonsp/Pluto.jl) notebooks, i.e. they
+You can find here the recipes I use in my research. These recipes are
+[Pluto](https://github.com/fonsp/Pluto.jl) notebooks so they
 can be run in a browser or directly as [Julia](https://julialang.org/)
 scripts.
 
-The code source of these recipes can be found on the
+The code source of these recipes can be found on my
 [SpeechLab](https://github.com/lucasondel/SpeechLab) github
-repositories.
+repository.
 
 
 ## Features
