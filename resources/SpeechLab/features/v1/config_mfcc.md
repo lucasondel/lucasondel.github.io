@@ -1,9 +1,3 @@
----
-permalink: /SpeechLab/features/config_mfcc
-layout: config
-title: MFCC configuration
----
-
 ```
 # SPDX-License-Identifier: MIT
 #
