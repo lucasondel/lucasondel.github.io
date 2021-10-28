@@ -15,7 +15,7 @@ repository.
 ## Speech Recognition
 
 * [Extract MFCC Features.jl](https://lucasondel.github.io/resources/SpeechLab/features/v1/Extract%20MFCC%20Features.jl)
-* [LF-MMI I: Preparing the Graphs.jl](https://lucasondel.github.io/resources/SpeechLab/features/v1/LF-MMI%20I:%20Preparing%20the%20Graphs.jl)
-* [LF-MMI II: Training.jl](https://lucasondel.github.io/resources/SpeechLab/features/v1/LF-MMI%20II:%20Training.jl)
+* [LF-MMI I: Preparing the Graphs.jl](https://lucasondel.github.io/resources/SpeechLab/lfmmi/v1/LF-MMI%20I:%20Preparing%20the%20Graphs.jl)
+* [LF-MMI II: Training.jl](https://lucasondel.github.io/resources/SpeechLab/lfmmi/v1/LF-MMI%20II:%20Training.jl)
 
 
