@@ -5,20 +5,24 @@ layout: config
 ```
 # SPDX-License-Identifier: MIT
 #
-# Lucas Ondel, LISN 2021
+# Lucas Ondel, LISN, 2021
 #
 # This is an example of configuration file for the MFCC features.
 
-# Where you have prepare you datasets.
+#######################################################################
+# Where you have prepared you datasets.
+#######################################################################
 [dataset]
 
-# We assume the following to find the files:
-#   dataset.dir/dataset.name/{dataset.subsets...}/{wav.scp,utt2spk}
+# We assume the following files to exist:
+#   <dataset.dir>/<dataset.name>/{<dataset.subsets>...}/{wav.scp,utt2spk}
 dir = "</path/to/datasets/>"
 name = "<dataset>"
 subsets = ["<train>", "<dev>", "<test>"]
 
+#######################################################################
 # Features specific configuration.
+#######################################################################
 [features]
 
 # Make sure the output directory is on a disk with large memory.

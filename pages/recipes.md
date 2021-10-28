@@ -12,8 +12,10 @@ The code source of these recipes can be found on my
 [SpeechLab](https://github.com/lucasondel/SpeechLab) github
 repository.
 
-
-## Features
+## Speech Recognition
 
 * [Extract MFCC Features.jl](https://lucasondel.github.io/resources/SpeechLab/features/v1/Extract%20MFCC%20Features.jl)
+* [LF-MMI I: Preparing Graphs.jl](https://lucasondel.github.io/resources/SpeechLab/features/v1/LF-MMI%20I:%20Preparing%20Graphs.jl)
+* [LF-MMI II: Training.jl](https://lucasondel.github.io/resources/SpeechLab/features/v1/LF-MMI%20II:%20Training.jl)
+
 
