@@ -1,7 +1,7 @@
 ---
 permalink: /recipes
 ---
-### [Home](/index) | [Publications](/publications) | [Talks](/talks) | [Softwares](/softwares) | Recipes
+### [Home](/index) | Recipes
 
 You can find here the recipes I use in my research. These recipes are
 [Pluto](https://github.com/fonsp/Pluto.jl) notebooks so they

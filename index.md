@@ -1,4 +1,4 @@
-### Home | [Publications](/publications) | [Talks](/talks) | [Softwares](/softwares) | [Recipes](/recipes)
+### Home | [Recipes](/recipes)
 
 I am currently a Visiting Researcher at SONOS Paris where I work on
 on-device ASR. I completed a Ph. D. at Brno University of Technology
